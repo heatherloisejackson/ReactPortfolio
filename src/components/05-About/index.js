@@ -5,7 +5,7 @@ function About() {
     <section className="my-5">
       <div className="my-2">
         <div className="profile-img my-5">
-          <i className="fas fa-user-circle" style={{ fontSize: "96px" }}></i>
+          <i className="fas fa-code" style={{ fontSize: "96px" }}></i>
         </div>
         <p>
           Hi, I'm Heather. I'm on my way to becoming a Full-Stack Web Developer,
