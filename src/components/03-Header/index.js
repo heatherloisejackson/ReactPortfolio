@@ -4,7 +4,7 @@ import coverImage from '../../assets/header/bg-masthead.jpg';
 function Header(props) {
 
   return (
-    <header className="flex-row space-between px-1">
+    <header>
       <h1>Heather Jackson</h1>
       <img src={coverImage} alt="background"></img>
       {props.children}
@@ -13,3 +13,5 @@ function Header(props) {
 }
 
 export default Header;
+
+// className="flex-row space-between px-1"

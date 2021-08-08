@@ -5,7 +5,7 @@ import Portfolio from '../06-Portfolio';
 import Contact from '../08-Contact';
 import Resume from '../09-Resume';
 
-function Page({ currentPage }) {
+function Website({ currentPage }) {
 
   const renderPage = () => {
     switch (currentPage.name) {
@@ -29,4 +29,4 @@ function Page({ currentPage }) {
     </section>
   );
 }
-export default Page;
+export default Website;

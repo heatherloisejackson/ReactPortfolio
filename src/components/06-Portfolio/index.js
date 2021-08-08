@@ -9,7 +9,7 @@ function Portfolio() {
       description: 'MongoDB/Express/Node/Handlebars',
       link: "http://bottomdrawermarketplace.herokuapp.com/",
       repo: "https://github.com/heatherloisejackson/super-octo-funicular",
-      screenshot: '../../assets/projects/bottomdrawer.png'
+      screenshot: 'https://github.com/heatherloisejackson/super-octo-funicular/blob/main/public/images/Untitled%203.png'
     },
     {
       name: 'Book Search Engine',
