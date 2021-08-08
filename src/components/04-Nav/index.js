@@ -22,7 +22,7 @@ function Nav(props) {
               key={Site.name}
             >
               <span
-                onClick={() => setCurrentPage(Page)}
+                onClick={() => setCurrentPage(Site)}
               >
                 {Site.name}
               </span>
