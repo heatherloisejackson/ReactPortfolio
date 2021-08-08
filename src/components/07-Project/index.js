@@ -2,12 +2,12 @@ import React from 'react';
 
 function Project({ project }) {
 
-  const { name, repo, link, description } = project;
+  const { name, repo, link, description, screenshot } = project;
 
   return (
     <div className="project" key={name}>
       <img
-        src={require(`../../assets/projects/${name}.jpg`)}
+        src={screenshot}
         alt={name}
         className="project-bg"
       />
