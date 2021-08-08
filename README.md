@@ -9,10 +9,11 @@ This application does not require any installation and can be accessed here: [He
 
 ## Usage
 Below are screenshots of the site.
-![screenshot1]()
+![screenshot1](./screenshots/Untitled.jpg)
+![screenshot2](./screenshots/Untitled2.jpg)
 
 ## Credits
-Thank you to Penn LPS Coding Bootcamp, instructors, peers, [JavaScript](https://www.javascript.com/), [Node.JS](https://nodejs.org/en/), [NPM](https://www.npmjs.com/) and its packages, [React.js](https://reactjs.org/), and [React-Bootstrap](https://react-bootstrap.github.io/).
+Thank you to Penn LPS Coding Bootcamp, instructors, peers, [JavaScript](https://www.javascript.com/), and [React.js](https://reactjs.org/).
 
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
